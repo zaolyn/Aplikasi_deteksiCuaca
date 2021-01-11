@@ -1,4 +1,4 @@
-package com.example.weather
+package com.example.Faza
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
